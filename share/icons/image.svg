@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="24"
+   viewBox="0 0 48 24"
+   class="feather feather-plus"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="image.svg"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+   inkscape:export-filename="/home/glemoult/Downloads/testtest.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata115">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs113">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter19034"
+       x="-0.204"
+       width="1.408"
+       y="-0.204"
+       height="1.408">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.34"
+         id="feGaussianBlur19036" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2509"
+     inkscape:window-height="1385"
+     id="namedview111"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="14.903466"
+     inkscape:cy="11.920478"
+     inkscape:window-x="51"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg109"
+     inkscape:snap-midpoints="true" />
+  <path
+     style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.77828056"
+     d="M 0,24 V 0 h 48 l 0,24 z"
+     id="path18548"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <circle
+     style="fill:#feffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter19034)"
+     id="path18586"
+     cx="5.3125"
+     cy="3.9375"
+     r="2" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path18586"
+     id="use18876"
+     transform="translate(12.625,1)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path18586"
+     id="use18878"
+     transform="translate(24.875,0.125)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use18878"
+     id="use18880"
+     transform="translate(-26.3125,9.4375)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use18880"
+     id="use18882"
+     transform="translate(9.6875,5.3125)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use18882"
+     id="use18884"
+     transform="translate(2,-7.4375)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#path18586"
+     id="use19038"
+     transform="translate(29.25,12.375)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use19038"
+     id="use19040"
+     transform="translate(11,-0.1875)"
+     width="100%"
+     height="100%" />
+  <use
+     x="0"
+     y="0"
+     xlink:href="#use19040"
+     id="use19042"
+     transform="translate(-6.1874999,-7.3125)"
+     width="100%"
+     height="100%" />
+  <circle
+     r="2"
+     cy="14.625"
+     cx="24.3125"
+     id="circle19044"
+     style="fill:#feffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter19034)" />
+</svg>

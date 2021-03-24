@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>go-last.svg</file>
+        <file>go-next.svg</file>
+        <file>go-previous.svg</file>
+        <file>go-first.svg</file>
+        <file>maximize.svg</file>
+        <file>minus.svg</file>
+        <file>plus.svg</file>
+        <file>original.svg</file>
+        <file>save.svg</file>
+        <file>flow.svg</file>
+        <file>folder.svg</file>
+        <file>x.svg</file>
+        <file>repeat.svg</file>
+        <file>chevron-left.svg</file>
+        <file>chevron-right.svg</file>
+        <file>arrow-up.svg</file>
+        <file>changeColorMap.svg</file>
+        <file>image.svg</file>
+        <file>u.svg</file>
+        <file>v.svg</file>
+        <file>mag.svg</file>
+        <file>sliders.svg</file>
+        <file alias="toggleAB_B">toggleAB-B.png</file>
+        <file alias="toggleAB_A">toggleAB-A.png</file>
+        <file>saveMatlab.png</file>
+        <file>more-vertical.svg</file>
+    </qresource>
+</RCC>
